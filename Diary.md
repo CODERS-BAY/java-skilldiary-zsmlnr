@@ -4,7 +4,7 @@
 ## 11.02.2021
 <hr>
 
-I have learned Today from the Basics. It was a "Refreshing" but, now I undersand it better. 
+I have learned Today of The Java basics. It was a "Refreshing" but, now I have a better picture of it. 
 <br>
 
 ## Datatypes
